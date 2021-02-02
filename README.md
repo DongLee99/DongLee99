@@ -28,7 +28,7 @@ DongLee99
 * [Java] 
 * C++
 * Python
-* Spring(예정)
+* Spring
 
 ### 학력
 인천대학교 컴퓨터 공학부 4학년 1학기 휴학
