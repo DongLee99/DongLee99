@@ -11,7 +11,6 @@
 # 2020/07/30 ~ 2021/04/29
 
   - 쓸모있는 사람 되기
-  - 야매금지
 
 
 > He who learns but does not think, 
@@ -24,7 +23,6 @@
 ### Tech
 
 DongLee99
-* [NodeJS] 
 * [Java] 
 * C++
 * Python
