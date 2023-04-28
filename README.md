@@ -4,7 +4,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-슬기로운 공익생활 
 
   - Spring 
   - java
